@@ -5,7 +5,7 @@ function preload() {
  
   
   bg= loadImage("aladdin_cave.jpg")
-  bg2= loadImage("aladdin_cave2.jpg")
+  bg2= loadImage("treasure.jpg")
   //load image for the treasure background
   
 }
